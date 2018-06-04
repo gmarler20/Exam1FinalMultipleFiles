@@ -1,3 +1,8 @@
+// I affirm that all code written below was written solely by me,
+// Griffen Marler, and that any help I recieved adhered to the rules
+// states for this exam. 
+
+
 #include "stdafx.h"
 #include "Movie.h"
 #include <string>
@@ -40,5 +45,5 @@ using namespace std;
 		ShowTime = z;
 	}
 
-};
+}
 
